@@ -1,3 +1,4 @@
+
 def solution(participant, completion):
     participant = sorted(participant)
     completion = sorted(completion)
